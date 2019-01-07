@@ -1,0 +1,12 @@
+name: Jupyter_project
+channels:
+    - defaults
+    - conda-forge
+dependencies:
+    - python=2.7
+    - pytraj=2.0.2
+    - matplotlib=2.0.2
+    - numpy
+    - sympy
+    - notebook=5.2
+    - jupyter=1.0
